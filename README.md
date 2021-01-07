@@ -21,11 +21,11 @@ Obs.: só é necessário instalar apenas uma vez.
         
 **Etapa 4**: digitar
 
-__Para html__
+_Para html_
 
     jupyter nbconvert --to html --no-input meu_notebook.ipynb
       
-__Para pdf__
+_Para pdf_
 
     jupyter nbconvert --to pdf --no-input meu_notebook.ipynb
         
