@@ -1,4 +1,4 @@
-# Gerando arquivo sem input
+# Gerando arquivo sem input no Jupyter Notebook
 
 Para gerar arquivo em formato html e pdf sem o input, caso queira enviar uma demonstração rápida dos dados.
 
