@@ -20,11 +20,11 @@ Obs.: só é necessário instalar apenas uma vez.
     cd "caminho diretório"
         
 **Etapa 4**: digitar
-Para html
+* Para html
 
     jupyter nbconvert --to html --no-input meu_notebook.ipynb
       
-Para pdf
+* Para pdf
 
     jupyter nbconvert --to pdf --no-input meu_notebook.ipynb
         
