@@ -11,21 +11,21 @@ Obs.: os próximos passos serão realizados no anaconda prompt
 
 **Etapa 2**: Instalar `nbconvert`.
         
-      conda install nbconvert
+        conda install nbconvert
         
 Obs.: 
 **Etapa 3**: Ir para o diretório que está o arquivo.
 
-      cd "caminho diretório"
+        cd "caminho diretório"
         
 **Etapa 4**: digitar
-- Para html
+Para html
 
-      jupyter nbconvert --to html --no-input meu_notebook.ipynb
+        jupyter nbconvert --to html --no-input meu_notebook.ipynb
       
-- Para pdf
+Para pdf
 
-      jupyter nbconvert --to pdf --no-input meu_notebook.ipynb
+        jupyter nbconvert --to pdf --no-input meu_notebook.ipynb
         
 
 
