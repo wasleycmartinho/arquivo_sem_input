@@ -1,6 +1,6 @@
 # Gerando arquivo sem input no Jupyter Notebook
 
-Para gerar arquivo em formato html e pdf sem o input, caso queira enviar uma demonstração rápida dos dados.
+Para gerar arquivo em formato html ou pdf sem o input, caso queira enviar uma demonstração rápida dos dados.
 
 Essa etapas foram realizadas no windows 10. 
 
