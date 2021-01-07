@@ -19,7 +19,7 @@ Obs.: só é necessário instalar apenas uma vez.
 
     cd "caminho diretório"
         
-**Etapa 4**: digitar
+**Etapa 4**: Digitar
 
 _Para html_
 
